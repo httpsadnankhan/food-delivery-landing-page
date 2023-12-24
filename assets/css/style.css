@@ -23,8 +23,8 @@ a{
 .colorfull{
     color: var(--main-color);
 }
-.navbar-hero{
-    background-image: url('/assets/images/hero-bg-img-2.png');
+.navbar-hero {
+    background-image: url(https://raw.githubusercontent.com/httpsadnankhan/food-delivery-landing-page/main/assets/images/hero-bg-img-2.png);
     background-size: cover;
 }
 /* Navbar */
