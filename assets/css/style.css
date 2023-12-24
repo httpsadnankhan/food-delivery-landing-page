@@ -203,7 +203,7 @@ button {
 
 /* Services Section */
 .services{
-    background-image: url(/assets/images/services-bg.png);
+    background-image: url(https://raw.githubusercontent.com/httpsadnankhan/food-delivery-landing-page/main/assets/images/services-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
