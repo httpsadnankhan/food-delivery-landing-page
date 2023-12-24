@@ -24,7 +24,7 @@ a{
     color: var(--main-color);
 }
 .navbar-hero{
-    background-image: url(assets/images/hero-bg-img-2.png);
+    background-image: url('/assets/images/hero-bg-img-2.png');
     background-size: cover;
 }
 /* Navbar */
