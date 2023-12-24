@@ -343,7 +343,7 @@ button {
 
 /* Feedback Section */
 .feedback{
-    background-image: url(/assets/images/feedback-bg.png);
+   background-image: url(https://raw.githubusercontent.com/httpsadnankhan/food-delivery-landing-page/main/assets/images/feedback-bg.png);
     background-size: cover;
     border-bottom-right-radius: 3rem;
     border-top-left-radius: 3rem;
@@ -573,7 +573,7 @@ button {
 
 /* Footer Section */
  .footer{
-    background-image: url(/assets/images/footer-bg.png);
+    background-image: url(https://raw.githubusercontent.com/httpsadnankhan/food-delivery-landing-page/main/assets/images/footer-bg.png);
     background-size: cover;
     overflow: hidden;
     color: #fff;
